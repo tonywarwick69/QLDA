@@ -1,3 +1,5 @@
 Bai01: Project Information to change Start date, Finish date, calendar
 Change working time button
 Bai02: Change working time -> Work weeks
+To take task note: in tab Properties press Notes
+to create new Calendar -> Change working time -> Create new calendar
