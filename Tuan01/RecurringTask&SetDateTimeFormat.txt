@@ -1,0 +1,2 @@
+To recurring TasK: in tab Task then section Insert>Task>Recurring Task
+To choose new datetime format: File>Options>General tab> Date format
