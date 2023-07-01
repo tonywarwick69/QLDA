@@ -1,0 +1,9 @@
+To add Resource: Open Resource Sheet in View
+Set value for Resource Sheet
+Back to Gantt Chart: Click right mouse to add column
+Select value from Resources by press drop down list
+Change Baseline Cost: Set Baseline
+To Whether working in a task are overtime or not: Gantt chart > Task Usage
+To customize Column name: Right click> Field settings
+To view overlocatted task and located task:
+View>
