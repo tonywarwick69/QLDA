@@ -1,0 +1,6 @@
+Project Cost = Cost of all Tasks
+Work,
+Cost: WBS
+to update Cost >Set Baseline
+Change Currency
+File>Option>Display>Currency
